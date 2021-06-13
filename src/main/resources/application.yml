@@ -16,3 +16,7 @@ spring:
     generate-ddl: false
     hibernate:
       ddl-auto: none
+
+application:
+  description: Projeto criado para o bootcamp DIO - Santander
+  version: 1.0
